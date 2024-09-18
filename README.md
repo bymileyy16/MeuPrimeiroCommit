@@ -1,4 +1,5 @@
-# 𝓜𝓮𝓾𝓟𝓻𝓲𝓶𝓮𝓲𝓻𝓸𝓒𝓸𝓶𝓶𝓲𝓽
+# 𝖬𝖾𝗎𝖯𝗋𝗂𝗆𝖾𝗂𝗋𝗈𝖢𝗈𝗆𝗆𝗂𝗍
+》》》》
 ### **$ git clone**
 serve para ser usado como um sobretudo para apontar para um repositorio existente em fazer clone ou cópia deste repositorio no novo diretório, em outro local.
 ### **$ dir** 
@@ -19,9 +20,9 @@ Verificação de historico de login
 login dentro do GIT por nome
 ### **$ git config --global user.email ""email@gmail.com"**
 login dentro do GIT por email
-# Historia do GIT
+# 𝖧𝗂𝗌𝗍𝗈𝗋𝗂𝖺 𝖽𝗈 𝖦𝖨𝖳
 ## **Oq é o GIT?**
-
+》》》》
 **GIT**
 é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
